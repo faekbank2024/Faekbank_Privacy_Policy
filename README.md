@@ -1,4 +1,4 @@
-**Faekbank_Privacy_Policy**
+# Faekbank_Privacy_Policy
 
 This privacy policy applies to the Faekbank app (hereby referred to as "Application") for mobile devices that was created by Grotesk Fintech Private Limited (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
